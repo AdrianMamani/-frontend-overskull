@@ -33,7 +33,7 @@ Antes de ejecutar el proyecto es necesario tener instalado:
 
 ## Instalacion 
 clonar el repositorio: 
-git clone 
+git clone https://github.com/AdrianMamani/-frontend-overskull.git 
 
 Ingresar al proyecto:
 cd overskull-project
